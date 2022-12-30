@@ -2,13 +2,8 @@
 using namespace std;
 
 int main() {
-  
-  //add code below this line
-
-
-
-  //add code above this line
-  
+  cout << "Hello " << endl; 
+  cout << "world!";
+  cout << "My name is Codio." << endl;
   return 0;
-  
 }
